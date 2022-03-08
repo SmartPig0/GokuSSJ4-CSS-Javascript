@@ -22,6 +22,7 @@ header {
     }
 
 .img-goku {
+    margin-top: 30px;
     width: 300px;
     border: solid ;
     box-sizing: border-box;
@@ -40,6 +41,7 @@ header {
 
 .btn-g:hover {
     background-color: black;
+    color: #fff;
 }
 
 footer {
